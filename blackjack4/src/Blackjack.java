@@ -56,7 +56,7 @@ import java.lang.String;
 
 
                 while (true) {
-
+                    //Prints menu
                     System.out.println("");
                     System.out.println("1. Get another card");
                     System.out.println("2. Hold hand");
